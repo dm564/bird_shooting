@@ -1,0 +1,5 @@
+beginer : 10
+easy : 8
+medium : 8
+hard : 6
+expert : 6
